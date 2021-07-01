@@ -8,4 +8,5 @@ int main()
 {
 	
 	printf("-1\n");//cout << "-1\n
+	printf("Hello World!!!\n");
 }
