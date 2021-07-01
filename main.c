@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include<math.h>
 const int maxn = 5e3 + 17;
